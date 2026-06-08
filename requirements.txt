@@ -1,4 +1,0 @@
-requests
-tabulate
-dotenv
-pytest
